@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * Example of using the Bubble sort indexer an OO implementation
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
